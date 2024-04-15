@@ -1,0 +1,12 @@
+### **Descripción General:**
+
+Se busca desarrollar una calculadora de finanzas personales que permita a los usuarios gestionar sus cuentas, transacciones y balances de forma eficiente y organizada. Esta herramienta será un apoyo esencial para aquellos que deseen mantener un control detallado de sus ingresos y egresos.
+
+### **Requerimientos Funcionales:**
+
+1. **Creación de cuentas:** Los usuarios deben poder crear cuentas especificando un nombre y tipo de cuenta.
+2. **Gestión de transacciones:** Los usuarios deben ser capaces de agregar transacciones (ingresos o egresos) a cuentas específicas, incluyendo una descripción y monto.
+3. **Consulta de balances:** La herramienta debe proporcionar la capacidad de consultar el balance total de una cuenta en particular, así como el balance acumulado de todas las cuentas.
+4. **Búsqueda de cuentas:** Se debe poder buscar cuentas por su nombre.
+5. **Visualización de todas las cuentas:** Los usuarios deben tener la opción de visualizar todas las cuentas creadas.
+6. **Manejo de errores:** El sistema debe gestionar adecuadamente errores como la inserción de datos no válidos o la búsqueda de cuentas inexistentes.
